@@ -1,0 +1,14 @@
+C:\Users\irems\Desktop\Github-Projeler\hesapmakinasi\hesapmakinasi\bin\Debug\netcoreapp3.1\hesapmakinasi.exe
+C:\Users\irems\Desktop\Github-Projeler\hesapmakinasi\hesapmakinasi\bin\Debug\netcoreapp3.1\hesapmakinasi.deps.json
+C:\Users\irems\Desktop\Github-Projeler\hesapmakinasi\hesapmakinasi\bin\Debug\netcoreapp3.1\hesapmakinasi.runtimeconfig.json
+C:\Users\irems\Desktop\Github-Projeler\hesapmakinasi\hesapmakinasi\bin\Debug\netcoreapp3.1\hesapmakinasi.runtimeconfig.dev.json
+C:\Users\irems\Desktop\Github-Projeler\hesapmakinasi\hesapmakinasi\bin\Debug\netcoreapp3.1\hesapmakinasi.dll
+C:\Users\irems\Desktop\Github-Projeler\hesapmakinasi\hesapmakinasi\bin\Debug\netcoreapp3.1\hesapmakinasi.pdb
+C:\Users\irems\Desktop\Github-Projeler\hesapmakinasi\hesapmakinasi\obj\Debug\netcoreapp3.1\hesapmakinasi.csproj.AssemblyReference.cache
+C:\Users\irems\Desktop\Github-Projeler\hesapmakinasi\hesapmakinasi\obj\Debug\netcoreapp3.1\hesapmakinasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\irems\Desktop\Github-Projeler\hesapmakinasi\hesapmakinasi\obj\Debug\netcoreapp3.1\hesapmakinasi.AssemblyInfoInputs.cache
+C:\Users\irems\Desktop\Github-Projeler\hesapmakinasi\hesapmakinasi\obj\Debug\netcoreapp3.1\hesapmakinasi.AssemblyInfo.cs
+C:\Users\irems\Desktop\Github-Projeler\hesapmakinasi\hesapmakinasi\obj\Debug\netcoreapp3.1\hesapmakinasi.csproj.CoreCompileInputs.cache
+C:\Users\irems\Desktop\Github-Projeler\hesapmakinasi\hesapmakinasi\obj\Debug\netcoreapp3.1\hesapmakinasi.dll
+C:\Users\irems\Desktop\Github-Projeler\hesapmakinasi\hesapmakinasi\obj\Debug\netcoreapp3.1\hesapmakinasi.pdb
+C:\Users\irems\Desktop\Github-Projeler\hesapmakinasi\hesapmakinasi\obj\Debug\netcoreapp3.1\hesapmakinasi.genruntimeconfig.cache
